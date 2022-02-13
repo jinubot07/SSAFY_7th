@@ -1,9 +1,8 @@
 package SWEA;
 
 import java.util.Scanner;
-import java.io.FileInputStream;
 
-public class Solution_D3_2805_농작물수확하기 {
+public class SWEA_Solution_D3_2805_농작물수확하기 {
 	static int N;
 	static int[][] map;
 

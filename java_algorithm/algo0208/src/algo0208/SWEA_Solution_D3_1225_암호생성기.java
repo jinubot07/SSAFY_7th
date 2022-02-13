@@ -4,7 +4,7 @@ package algo0208;
 
 import java.util.Scanner;
 
-public class Solution_D3_1225_암호생성기 {
+public class SWEA_Solution_D3_1225_암호생성기 {
 
 	static int T=10;
 	

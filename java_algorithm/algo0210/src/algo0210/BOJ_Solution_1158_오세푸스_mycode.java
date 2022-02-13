@@ -2,10 +2,9 @@
 
 package algo0210;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Solution_1158_오세푸스_mycode {
+public class BOJ_Solution_1158_오세푸스_mycode {
 	static int[] arr;
 	static int[] josephus;
 	public static void main(String[] args) {

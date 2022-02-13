@@ -3,7 +3,7 @@ package algo0209;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Solution_D3_13428_숫자조작_mycode {
+public class SWEA_Solution_D3_13428_숫자조작_mycode {
 	
 	static int[] arr;
 	static int[] min;

@@ -2,7 +2,7 @@ package algo0207;
 
 import java.util.Scanner;
 
-public class Solution_D3_5215_햄버거다이어트_subset {
+public class SWEA_Solution_D3_5215_햄버거다이어트_subset {
 
 	static int T,N,L;
 	static int[] num;

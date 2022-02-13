@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Solution_D3_1873_상호의배틀필드 {
+public class SWEA_Solution_D3_1873_상호의배틀필드 {
 	
 	static int T;		// 테스트케이스
 	static int H,W;		// 맵의 크기

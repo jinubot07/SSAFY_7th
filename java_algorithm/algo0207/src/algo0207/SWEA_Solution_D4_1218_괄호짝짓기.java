@@ -3,7 +3,7 @@ package algo0207;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class Solution_D4_1218_괄호짝짓기 {
+public class SWEA_Solution_D4_1218_괄호짝짓기 {
 	
 	static int T =10;
 	static int L;

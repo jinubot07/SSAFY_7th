@@ -2,7 +2,7 @@ package algo0207;
 
 import java.util.Scanner;
 
-public class Solution_D3_5215_햄버거다이어트 {
+public class SWEA_Solution_D3_5215_햄버거다이어트 {
 	static int N, R;	// 보통 입력받는 변수는 대문자
 	static int[] input, numbers;
 	static boolean[] isSelected;

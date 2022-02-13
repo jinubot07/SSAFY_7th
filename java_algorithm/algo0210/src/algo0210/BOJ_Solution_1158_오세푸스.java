@@ -3,7 +3,7 @@ package algo0210;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Solution_1158_오세푸스 {
+public class BOJ_Solution_1158_오세푸스 {
 
 	public static void main(String[] args) {
 		Scanner scann = new Scanner(System.in);

@@ -2,7 +2,7 @@ package SWEA;
 
 import java.util.Scanner;
 
-public class Solution_D2_2001_파리퇴치_mycode {
+public class SWEA_Solution_D2_2001_파리퇴치_mycode {
 	
 	static int T;		// 테스트케이스
 	static int[][] map; // 파리가 있는 맵

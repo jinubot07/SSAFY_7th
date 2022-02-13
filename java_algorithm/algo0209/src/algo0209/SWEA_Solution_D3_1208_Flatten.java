@@ -2,7 +2,7 @@ package algo0209;
 
 import java.util.Scanner;
 
-public class Solution_D3_1208_Flatten {
+public class SWEA_Solution_D3_1208_Flatten {
 	static int testcase = 10;
 	static int[] map = new int[100];
 

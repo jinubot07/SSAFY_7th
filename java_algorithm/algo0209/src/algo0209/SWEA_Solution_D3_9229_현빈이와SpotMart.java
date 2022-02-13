@@ -1,9 +1,9 @@
-package algo0208;
+package algo0209;
 
-import java.util.Arrays;
+
 import java.util.Scanner;
 
-public class Solution_D3_9229_현빈이와SpotMart {
+public class SWEA_Solution_D3_9229_현빈이와SpotMart {
 
 	static int[] a ;//= {15,20,25,30,35};
 	static int N ;// a.length;
@@ -24,18 +24,18 @@ public class Solution_D3_9229_현빈이와SpotMart {
 
 			for(int i=0; i<N; i++) {
 				a[i] = scann.nextInt();
-				System.out.print(a[i]+".");
+				//System.out.print(a[i]+",");
 			}
 			combisum(0,0);
 			System.out.printf("#%d %d\n",t,max_twosnack);
-			max_twosnack = -1;				
+			max_twosnack=-1;
 		}
 	}
 
 	
 	public static void combisum(int cnt, int start) {
 		if(cnt==2) {	// 과자 2봉지만 뽑는 것
-			System.out.println("twosnack:"+Arrays.toString(twosnack));
+			//System.out.println("twosnack:"+Arrays.toString(twosnack));
 			if(max_twosnack < twosnack[0]+twosnack[1] && twosnack[0]+twosnack[1] <= M)
 				max_twosnack = twosnack[0]+twosnack[1];
 			return;

@@ -2,7 +2,7 @@ package SWEA;
 
 import java.util.Scanner;
 
-public class Solution_Input_Test {
+public class SWEA_Solution_Input_Test {
 		static int T;		// 테스트케이스
 		static int[][] map; // 파리가 있는 맵
 		static int N;		// 맵의 크기

@@ -1,13 +1,8 @@
 package algo0209;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
 import java.util.Scanner;
-import java.util.StringTokenizer;
 
-public class Solution_D3_7234_안전기지 {
+public class SWEA_Solution_D3_7234_안전기지 {
 
 	static int T;
 	static int N,B;

@@ -4,7 +4,7 @@ package algo0208;
 
 import java.util.Scanner;
 
-public class Solution_D3_1228_암호문1 {
+public class SWEA_Solution_D3_1228_암호문1 {
 
 	static int[] arr;
 	public static void main(String[] args) {
